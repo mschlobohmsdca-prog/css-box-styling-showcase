@@ -53,4 +53,4 @@ git clone https://github.com/mschlobohm-sdca-prog/css-box-styling-showcase.git
 
 Matthew Schlobohm
 
-GitHub: https://github.com/mschlobohm-sdca-prog
+GitHub: https://github.com/mschlobohmsdca-prog
